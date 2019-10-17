@@ -30,7 +30,6 @@ describe(Protobot, () => {
     protobot.setItem()
     protobot.setConstraint()
     protobot.setBreif()
-    console.log(protobot.breif)
   })
 
 });
